@@ -6,8 +6,12 @@ RENCANA KONTEN TS
     ^ Vue
     ^ React
 - Struktur data dasar
+- HTML
+- PHP
+- CSS
 - PHP Frameworks
   ^ Laravel
 - Interview
 - Vlogs
   ^ Python
+  
