@@ -5,3 +5,4 @@ TS RESOLUSI
 - Membuat blog
 - Kolaborasi dengan lbih banyak expert
 - Belajar Github
+- Mempelajari bahasa pemrograman
