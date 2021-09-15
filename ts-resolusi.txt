@@ -4,3 +4,4 @@ TS RESOLUSI
 - Membuat Forum Diskusi
 - Membuat blog
 - Kolaborasi dengan lbih banyak expert
+- Belajar Github
